@@ -4,8 +4,8 @@
 %% Alumno (Apellidos, Nombre): Herrero Arozamena, Mario             %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                                  Notas
+====== ============================            ================================
   (01)          clone
   (02)          bitacora.txt editado
   (03)          add bitacora.txt
@@ -18,3 +18,10 @@
                 checkout feature/Ticket220
   (09)          bitacora.txt editado
   (14)          stash
+  (18)          stash apply
+ 		bitacore.txt editada
+  (19)          add bitacora.txt
+                commit -m "Paso 19"
+  (20)          checkout develop
+  (21)          branch feature/Ticket222
+  (22)          checkout feature/Ticket220       Fast-Forward
