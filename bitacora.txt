@@ -12,4 +12,8 @@
                 commit -m "Paso 03"
   (04)          push origin master
   (05)          bitacora.txt editado
-  (06)          
+  (06)          commmit -m "Paso 06"
+  (07)          branch develop
+  (08)          branch feature/Ticket220
+                checkout feature/Ticket220
+  (09)          bitacora.txt editado
