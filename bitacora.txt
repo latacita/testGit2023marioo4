@@ -17,3 +17,4 @@
   (08)          branch feature/Ticket220
                 checkout feature/Ticket220
   (09)          bitacora.txt editado
+  (14)          stash
