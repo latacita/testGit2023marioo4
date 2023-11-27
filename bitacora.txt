@@ -33,3 +33,11 @@
   (20)          checkout develop
   (21)          branch feature/Ticket222
   (22)          checkout feature/Ticket220       Fast-Forward
+  (24)          add bitacora.txt
+                commit -m "Paso 03"
+  (25)          checkout develop
+  (26)          merge -s recursive feature/Ticket220
+  (27)          merge -s recursive feature/Ticket221
+		arreglar conflictos bitacore.txt
+                add bitacore.txt
+                commit -m "conflictos merge ej 27"
