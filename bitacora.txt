@@ -41,3 +41,9 @@
 		arreglar conflictos bitacore.txt
                 add bitacore.txt
                 commit -m "conflictos merge ej 27"
+  (29)          add feature feature/Ticket221
+                commit -m "Paso 29"
+  (30)          git tag Step29
+  (31)          git push origin develop
+  (32)          branch feature/Ticket22
+  (33)          merge develop
