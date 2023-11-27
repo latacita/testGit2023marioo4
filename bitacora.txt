@@ -47,3 +47,9 @@
   (31)          git push origin develop
   (32)          branch feature/Ticket22
   (33)          merge develop
+  (35)          add bitacora.txt
+                commit -m "Paso 35"
+  (36)          checkot develop
+  (37)          git merge -s recursive feature/Ticket222
+  (38)          checkout master
+  (39)          git merge -s recursive develop
